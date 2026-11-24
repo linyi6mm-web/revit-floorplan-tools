@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FamilyMap>
+  <!-- Names are exact; add your family parameter names as needed. Dimensions must be Length parameters. -->
+  <Names role="SideLow">ふかし左|左フカシ|左ふかし|左加厚|Fukashi Left</Names>
+  <Names role="SideHigh">ふかし右|右フカシ|右ふかし|右加厚|Fukashi Right</Names>
+  <Names role="DepthLow">ふかし前|前フカシ|前ふかし|前加厚|Fukashi Front</Names>
+  <Names role="DepthHigh">ふかし後|後フカシ|後ふかし|后加厚|Fukashi Back</Names>
+  <Names role="BodyWidth">躯体幅|構造幅|本体宽度|Core Width</Names>
+  <Names role="BodyDepth">躯体せい|構造せい|本体进深|Core Depth</Names>
+  <Names role="WallThickness">構造厚|躯体厚|构造厚度|Core Thickness</Names>
+  <Names role="Hatch">床点検口|点検口|检修口|Access Hatch</Names>
+  <Names role="Elevator">EV開口|EVピット|エレベーター|电梯井|Elevator|Lift Shaft</Names>
+</FamilyMap>
